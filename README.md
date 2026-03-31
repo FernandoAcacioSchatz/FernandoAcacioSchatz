@@ -1,6 +1,11 @@
 👨🏻‍🎓 Estudante de Ciências da Computação.<br>
 🔭 Atualmente transformando ideias malucas em código real (e sobrevivendo à graduação em Ciência da Computação).<br>🌱 Alimentando meu cérebro com: Inteligência Artificial, empacotando tudo com Docker e codando em Python e Java até a madrugada.<br>👯 Topo colaborar em qualquer projeto open-source que prometa ser divertido (e que não tenha deploy na sexta-feira).<br>🤝 Preciso de um "Help!" para dominar os paranauês de orquestração Docker e colocar minhas aplicações no ar.<br>💬 Prende Aprendendo sobre Python, Java ou como manter a sanidade estudando lógica de programação.<br>⚡ Fato curioso: Meu código sempre roda perfeitamente... até o professor ou o usuário olhar pra ele. 😅
-
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fernandinhoacacio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-ac%C3%A1cio-schatz-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandoacacioschatz@gmail.com) 
@@ -19,10 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FernandoAcacioSchatz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandoAcacioSchatz/FernandoAcacioSchatz/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
