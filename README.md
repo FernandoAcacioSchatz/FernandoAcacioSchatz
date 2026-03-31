@@ -1,5 +1,5 @@
-Estudante de Ciências da Computação. 
-🔭 Atualmente transformando ideias malucas em código real (e sobrevivendo à graduação em Ciência da Computação).<br>🌱 Alimentando meu cérebro com: Inteligência Artificial, empacotando tudo com Docker e codando em Python e Java até a madrugada.<br>👯 Topo colaborar em qualquer projeto open-source que prometa ser divertido (e que não tenha deploy na sexta-feira).<br>🤝 Preciso de um "Help!" para dominar os paranauês de orquestração Docker e colocar minhas aplicações no ar.<br>💬 Me pergunte sobre Python, Java ou como manter a sanidade estudando lógica de programação.<br>⚡ Fato curioso: Meu código sempre roda perfeitamente... até o professor ou o usuário olhar pra ele. 😅
+Estudante de Ciências da Computação.<br>
+🔭 Atualmente transformando ideias malucas em código real (e sobrevivendo à graduação em Ciência da Computação).<br>🌱 Alimentando meu cérebro com: Inteligência Artificial, empacotando tudo com Docker e codando em Python e Java até a madrugada.<br>👯 Topo colaborar em qualquer projeto open-source que prometa ser divertido (e que não tenha deploy na sexta-feira).<br>🤝 Preciso de um "Help!" para dominar os paranauês de orquestração Docker e colocar minhas aplicações no ar.<br>💬 Prende Aprendendo sobre Python, Java ou como manter a sanidade estudando lógica de programação.<br>⚡ Fato curioso: Meu código sempre roda perfeitamente... até o professor ou o usuário olhar pra ele. 😅
 
 
 ## 🌐 Socials:
